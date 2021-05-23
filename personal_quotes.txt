@@ -4,3 +4,5 @@ Quote 1
 Quote 2
 
 Color Yellow
+
+New Color Blue
